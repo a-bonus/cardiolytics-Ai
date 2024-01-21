@@ -1,21 +1,21 @@
-# Cardiolytics AI Roadmap
+# Cardiolytics AI (iOS) Roadmap
 
 ## Overview
-This document outlines the development roadmap for Cardiolytics Ai, which aims to provide insightful heart rate data visualizations and health analytics by leveraging Apple HealthKit.
+This document outlines the development roadmap for Cardiolytics Ai, which aims to provide insightful heart rate data visualizations and health analytics.
 
 ## Phases
 
 ### Phase 1: Planning and Design
 - **Goal**: Define app features, create design mockups, and plan the development process.
 - **Tasks**:
-  - [ ] Define core functionalities and integration points with HealthKit.
+  - [ ] Define core functionalities and integration points with HealthKit (ReactNative, Swift..?) 
   - [ ] Create wireframes for the app's user interface.
   - [ ] Develop a detailed design mockup for key screens.
   - [ ] Write technical specifications and determine the tech stack.
 
 ### Phase 2: Environment Setup and Basic HealthKit Integration
 - **Goal**: Set up the development environment and implement basic HealthKit integration.
-- **Tasks**:
+- **if iOS only, Tasks**:
   - [ ] Install and configure Xcode.
   - [ ] Initialize a new Swift project in Xcode.
   - [ ] Implement basic HealthKit integration to read heart rate data.
