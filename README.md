@@ -1,54 +1,65 @@
-# Cardiolytics AI (iOS) Roadmap
+# Cardiolytics AI App Development Roadmap Using Expo
 
 ## Overview
-This document outlines the development roadmap for Cardiolytics Ai, which aims to provide insightful heart rate data visualizations and health analytics.
+This roadmap outlines the development process for Cardiolytics AI, a heart rate data visualization app, using the Expo framework for a cross-platform (iOS and Android) experience.
 
 ## Phases
 
-### Phase 1: Planning and Design
-- **Goal**: Define app features, create design mockups, and plan the development process.
+### Phase 1: Initial Setup and Planning
+- **Goal**: Establish project foundation and detailed planning.
 - **Tasks**:
-  - [ ] Define core functionalities and integration points with HealthKit (ReactNative, Swift..?) 
-  - [ ] Create wireframes for the app's user interface.
-  - [ ] Develop a detailed design mockup for key screens.
-  - [ ] Write technical specifications and determine the tech stack.
+  - [ ] Install Expo CLI and set up a new Expo project.
+  - [ ] Define core functionalities and user stories for the app.
+  - [ ] Create initial wireframes and mockups for the app UI/UX.
 
-### Phase 2: Environment Setup and Basic HealthKit Integration
-- **Goal**: Set up the development environment and implement basic HealthKit integration.
-- **if iOS only, Tasks**:
-  - [ ] Install and configure Xcode.
-  - [ ] Initialize a new Swift project in Xcode.
-  - [ ] Implement basic HealthKit integration to read heart rate data.
-
-### Phase 3: MVP Development
-- **Goal**: Develop a Minimum Viable Product (MVP) with basic heart rate visualization.
+### Phase 2: Environment and Tools Setup
+- **Goal**: Prepare development environment and essential tools.
 - **Tasks**:
-  - [ ] Develop UI components based on design mockups.
-  - [ ] Create a module to fetch and process heart rate data from HealthKit.
-  - [ ] Implement data visualization for heart rate metrics.
-  - [ ] Integrate user authentication and permissions for HealthKit data access.
+  - [ ] Set up a version control system using Git and GitHub.
+  - [ ] Choose and set up project management tools (like Trello or Jira).
+  - [ ] Decide on coding standards and best practices for the project.
 
-### Phase 4: Testing and Iteration
-- **Goal**: Test the MVP and iterate based on feedback.
+### Phase 3: Development of Core Features
+- **Goal**: Develop basic functionalities of the app.
 - **Tasks**:
-  - [ ] Perform unit testing and functional testing.
-  - [ ] Conduct user testing with a small group.
-  - [ ] Gather feedback and iterate on the MVP.
+  - [ ] Implement user authentication system.
+  - [ ] Integrate with Apple HealthKit, health connect, and/or Google Fit for heart rate data (using Expo APIs or custom solutions).
+  - [ ] Develop the heart rate data visualization component.
+  - [ ] Create basic navigation and core screens of the app.
 
-### Phase 5: App Store Preparation and Submission
-- **Goal**: Prepare for and submit the app to the Apple App Store.
+### Phase 4: Advanced Features and Fine-Tuning
+- **Goal**: Add advanced features and enhance user experience.
 - **Tasks**:
-  - [ ] Optimize app performance and fix any remaining bugs.
-  - [ ] Prepare App Store listing, including screenshots and descriptions.
-  - [ ] Submit the app for review through Xcode.
-  - [ ] Address any feedback or required changes from the App Store review.
+  - [ ] Implement additional features like trend analysis, personalized insights, and notifications.
+  - [ ] Optimize app performance and refine UI/UX based on initial feedback.
+  - [ ] Conduct thorough testing across different devices for consistency.
 
-### Phase 6: Post-Launch Activities
-- **Goal**: Monitor, maintain, and update the app post-launch.
+### Phase 5: Beta Testing
+- **Goal**: Validate the app with real users and gather feedback.
+- **Tasks**:
+  - [ ] Release a beta version through Expo.
+  - [ ] Collect and analyze user feedback.
+  - [ ] Iterate on the app based on feedback.
+
+### Phase 6: Launch Preparation
+- **Goal**: Prepare for the official app release.
+- **Tasks**:
+  - [ ] Finalize app metadata, screenshots, and assets for the App Store and Google Play Store.
+  - [ ] Ensure compliance with all store guidelines.
+  - [ ] Create a marketing and launch plan.
+
+### Phase 7: App Store Submission and Launch
+- **Goal**: Deploy the app to the App Store and Google Play Store.
+- **Tasks**:
+  - [ ] Submit the app for review on both platforms.
+  - [ ] Launch the app and execute the marketing plan.
+
+### Phase 8: Post-Launch Activities
+- **Goal**: Maintain and improve the app post-launch.
 - **Tasks**:
   - [ ] Monitor app performance and user feedback.
-  - [ ] Plan and implement app updates and new features.
-  - [ ] Implement marketing and user engagement strategies.
+  - [ ] Regularly update the app with bug fixes, performance enhancements, and new features.
+  - [ ] Implement ongoing marketing strategies to increase user acquisition and retention.
 
 ## Notes
-- This roadmap is subject to change based on project requirements and feedback 
+- This roadmap is flexible and will evolve based on project progress, user feedback, and any changes in project scope or objectives.
