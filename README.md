@@ -9,7 +9,11 @@ This roadmap outlines the development process for Cardiolytics AI, a heart rate 
 - **Goal**: Establish project foundation and detailed planning.
 - **Tasks**:
   - [ ] Install Expo CLI and set up a new Expo project.
-  - [ ] Define core functionalities and user stories for the app.
+  - [ ]  Define potential/desired core functionalities and user stories for the app. (Add to list whenever new ideas come up.
+  - [ ] Features:
+    - [ ] Simple and beautiful heart rate visualizations for past activities.
+    - [ ] Matched activities for heart rate comparisons (to track progress of cardio fitness keeping one activity as a constant).
+    - [ ] A gamification of a proprietary heart rate score derived from variables that improve heart health.
   - [ ] Create initial wireframes and mockups for the app UI/UX.
 
 ### Phase 2: Environment and Tools Setup
