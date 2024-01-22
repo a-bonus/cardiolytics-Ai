@@ -14,7 +14,7 @@ This roadmap outlines the development process for Cardiolytics AI, a heart rate 
     - [ ] Simple and beautiful heart rate visualizations for past activities.
       - [ ] Zones does this but it could be way better. 
     - [ ] Matched activities for heart rate comparisons (to track progress of cardio fitness keeping one activity as a constant.
-      - [ ] Strava does this with "matched activities" trend that gives statistics for all data including heart rate holding the activity as the constant in order to be able to track metrics over time. 
+      - [ ] Strava does this with "matched activities" trend that gives statistics for all data including heart rate holding the activity as the constant in order to be able to track metrics over time, their feature is a premium feature, could be a free functionality, and even better. 
     - [ ] A gamification of a proprietary heart rate score derived from variables that improve heart health.
       - [ ] Stryd does this with "power" this functional power updates automatically with new activities, a heart rate score could potentially do the same. 
     - [ ] An education section/blog/ a tab regularly updated with new condesnsed research regarding fitness and heart health.
