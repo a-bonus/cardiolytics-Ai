@@ -17,7 +17,7 @@ This roadmap outlines the development process for Cardiolytics AI, a heart rate 
       - [ ] Strava does this with "matched activities" trend that gives statistics for all data including heart rate holding the activity as the constant in order to be able to track metrics over time, their feature is a premium feature, could be a free functionality, and even better. 
     - [ ] A gamification of a proprietary heart rate score derived from variables that improve heart health.
       - [ ] Stryd does this with "power" this functional power updates automatically with new activities, a heart rate score could potentially do the same. 
-    - [ ] An education section/blog/ a tab regularly updated with new condesnsed research regarding fitness and heart health.
+    - [ ] An education section/blog/ a tab regularly updated with new condensed research regarding fitness and heart health.
       - [ ] The app "Zero" has something like this.
       - [ ] This blog strategy could also be used as a content strategy to educate regarding not only health and fitness, but also in data presentation, modeling, data science, statistics, etc. 
   - [ ] Create initial wireframes and mockups for the app UI/UX.
