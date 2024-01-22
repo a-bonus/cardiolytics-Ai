@@ -14,6 +14,7 @@ This roadmap outlines the development process for Cardiolytics AI, a heart rate 
     - [ ] Simple and beautiful heart rate visualizations for past activities.
     - [ ] Matched activities for heart rate comparisons (to track progress of cardio fitness keeping one activity as a constant).
     - [ ] A gamification of a proprietary heart rate score derived from variables that improve heart health.
+    - [ ] An education section/blog/ a tab regularly updated with new condesnsed research regarding fitness and heart health. 
   - [ ] Create initial wireframes and mockups for the app UI/UX.
 
 ### Phase 2: Environment and Tools Setup
