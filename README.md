@@ -18,7 +18,8 @@ This roadmap outlines the development process for Cardiolytics AI, a heart rate 
     - [ ] A gamification of a proprietary heart rate score derived from variables that improve heart health.
       - [ ] Stryd does this with "power" this functional power updates automatically with new activities, a heart rate score could potentially do the same. 
     - [ ] An education section/blog/ a tab regularly updated with new condesnsed research regarding fitness and heart health.
-      - [ ] The app "Zero" has something like this. 
+      - [ ] The app "Zero" has something like this.
+      - [ ] This blog strategy could also be used as a content strategy to educate regarding not only health and fitness, but also in data presentation, modeling, data science, statistics, etc. 
   - [ ] Create initial wireframes and mockups for the app UI/UX.
 
 ### Phase 2: Environment and Tools Setup
