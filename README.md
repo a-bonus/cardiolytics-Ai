@@ -3,13 +3,18 @@
 ## Overview
 This roadmap outlines the development process for Cardiolytics AI, a heart rate data visualization app, using the Expo framework for a cross-platform (iOS and Android) experience.
 
+## Key Mindset / Pillars 
+ - [ ] 1. Built on research
+ - [ ] 2. Built for usefulness
+ - [ ] 3. Built on simplicity
+
 ## Phases
 
 ### Phase 1: Initial Setup and Planning
 - **Goal**: Establish project foundation and detailed planning.
 - **Tasks**:
-  - [ ] Install Expo CLI and set up a new Expo project.
-  - [ ]  Define potential/desired core functionalities and user stories for the app (Add to list whenever new ideas come up). 
+  - [x] Install Expo CLI and set up a new Expo project.
+  - [ ] (Ongoing) Define potential/desired core functionalities and user stories for the app (Add to list whenever new ideas come up. 
   - [ ] Features:
     - [ ] Simple and beautiful heart rate visualizations for past activities.
       - [ ] Zones does this but it could be way better. 
