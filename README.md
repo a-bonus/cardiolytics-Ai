@@ -7,6 +7,11 @@ This roadmap outlines the development process for Cardiolytics AI, a heart rate 
  - [ ] 1. Built on research
  - [ ] 2. Built for usefulness
  - [ ] 3. Built on simplicity
+       
+## Admin Tasks
+ - [x] 1. Secure email: cardiolyticsai@gmail.com
+ - [ ] 2. Secure domain
+ - [ ] 3. Secore socials 
 
 ## Phases
 
