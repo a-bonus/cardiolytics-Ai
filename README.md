@@ -9,9 +9,10 @@ This roadmap outlines the development process for Cardiolytics AI, a heart rate 
  - [ ] 3. Built on simplicity
        
 ## Admin Tasks
- - [x] 1. Secure email: cardiolyticsai@gmail.com
- - [ ] 2. Secure domain: cardiolytics.ai vs other domain names? 
- - [ ] 3. Secore socials 
+ - [x] 1. Secure email: gmail: cardiolyticsai@gmail.com, and domain emails
+ - [ ] 2. Secure domain: cardiolytics.ai using space ship
+ - [ ] 3. Secure socials
+ - [ ] 4. Secure online presence and establish dns, blogs, hosting, etc. 
 
 ## Phases
 
