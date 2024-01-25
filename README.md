@@ -50,7 +50,7 @@ This roadmap outlines the development process for Cardiolytics AI, a heart rate 
 ### Phase 4: Advanced Features and Fine-Tuning
 - **Goal**: Add advanced features and enhance user experience.
 - **Tasks**:
-  - [ ] Implement additional features like trend analysis, personalized insights, and notifications.
+  - [ ] Implement additional features like trend analysis, machine learning algos, statistical predictive modeling, personalized insights, and notifications.
   - [ ] Optimize app performance and refine UI/UX based on initial feedback.
   - [ ] Conduct thorough testing across different devices for consistency.
 
