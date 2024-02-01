@@ -3,6 +3,9 @@
 ## Overview
 This roadmap outlines the development process for Cardiolytics AI, a heart rate data visualization app, using the Expo framework for a cross-platform (iOS and Android) experience.
 
+## MVP
+ - [ ] 1. Health Kit integration and simple HR visualization
+
 ## Key Mindset / Pillars 
  - [ ] 1. Built on research
  - [ ] 2. Built for usefulness
