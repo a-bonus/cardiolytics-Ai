@@ -5,6 +5,7 @@ This roadmap outlines the development process for Cardiolytics AI, a heart rate 
 
 ## MVP
  - [ ] 1. Health Kit integration and simple HR visualization
+ - [ ] What is the purpose of Cardiolytics Ai? 
 
 ## Key Mindset / Pillars 
  - [ ] 1. Built on research
