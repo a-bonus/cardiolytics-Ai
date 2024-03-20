@@ -1,4 +1,4 @@
-# Cardiolytics AI App Development Roadmap Using React Native
+# Cardiolytics AI Dev Roadmap w/ React Native
 
 ## Overview
 This roadmap outlines the development process for Cardiolytics AI 
