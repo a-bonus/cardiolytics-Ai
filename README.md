@@ -8,7 +8,8 @@ This roadmap outlines the development process for Cardiolytics Ai
 
 ## Key Mindsets
  - [ ] 1. Built on small, easy, and simple iterations that leverage the power of compound effect over time. 
- - [ ] 2. Utilizing pareto optimality and first principles thinking to work on effective tasks that move the needle forward. 
+ - [ ] 2. Utilizing pareto optimality and first principles thinking to work on effective tasks that move the needle forward.
+ - [ ] 3. Always be taking notes on creative ideas. 
 
 ## Roadmap 
 - [ ] 1. Currently setting up the development environment
