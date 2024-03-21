@@ -4,7 +4,7 @@
 This roadmap outlines the development process for Cardiolytics Ai
 
 ## MVP
- - [ ] MVP #1. Simple functioning app that as Health Kit integration and can visualize historical heart rate data from an activity. 
+ - [ ] MVP #1. Simple functioning app that as Health Kit integration and can visualize historical heart rate data from an apple watch activity. 
 
 ## Key Mindset
  - [ ] 1. Built on simple iterations that leverage compound effect 
