@@ -8,4 +8,8 @@ This roadmap outlines the development process for Cardiolytics AI
 
 ## Key Mindset
  - [ ] 1. Built on simple iterations that leverage compound effect 
- - [ ] 2. Utilizing pareto optimality and first principles thinking 
+ - [ ] 2. Utilizing pareto optimality and first principles thinking
+
+## Roadmap 
+- [ ] 1. Currently setting up the development environment
+- [ ] 2. Configure healthkit integration 
